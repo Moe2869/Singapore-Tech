@@ -61,7 +61,7 @@ header:hover .nav-item{
 }
 
 header:hover .nav-item:hover{
-  color: #F51528;
+  color: #0067A6;
   text-shadow: none;
 
 }
@@ -73,7 +73,7 @@ header:hover .nav-item:hover{
   bottom: -5px;
   width: 100%;
   height: 2px;
-  background-color: #F51528;
+  background-color: #0067A6;
   transform: scaleX(0);
   transform-origin: left;
   transition: transform 0.3s ease-out;
@@ -404,6 +404,7 @@ footer{
 
 .footer-left-section{
   margin-left: 100px;
+  height: 150px;
   display: flex;
   flex-direction: row;
 }
