@@ -63,7 +63,7 @@ header:hover .nav-item{
 }
 
 header:hover .nav-item:hover{
-  color: #F51528;
+  color: #0067A6;
   text-shadow: none;
 
 }
@@ -75,7 +75,7 @@ header:hover .nav-item:hover{
   bottom: -5px;
   width: 100%;
   height: 2px;
-  background-color: #F51528;
+  background-color: #0067A6;
   transform: scaleX(0);
   transform-origin: left;
   transition: transform 0.3s ease-out;
@@ -111,7 +111,7 @@ header:hover .nav-item:hover::after{
   font-weight: normal;
   font-size: 16px;
   top: 100px;
-  left: 56px;
+  left: 50px;
   cursor: pointer;
   z-index: 3;
 }
@@ -135,7 +135,7 @@ header:hover .nav-item:hover::after{
   align-items: left;
   text-align: left;
   color: #FFFFFF; 
-  padding: 0 20px;
+  padding: 0 50px;
 }
 
 .hero-heading{
@@ -163,7 +163,7 @@ header:hover .nav-item:hover::after{
   align-items: left;
   text-align: left;
   color: #FFFFFF; 
-  padding: 0 20px;
+  padding: 0 0px;
   z-index: 2;
 }
 /* Gradient Overlay */
@@ -306,7 +306,7 @@ header:hover .nav-item:hover::after{
 }
 /* Second District Cards Text Section */
 .second-district-text-section{
-  width: 583px;
+  width: 624px;
   display: flex;
   flex-direction: column;
   padding-top: 20px;
@@ -408,6 +408,7 @@ footer{
 
 .footer-right-section{
   margin-right: 100px;
+  height: 150px;
   display: flex;
   flex-direction: column;
 }
