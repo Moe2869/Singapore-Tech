@@ -402,13 +402,13 @@ footer{
 
 .footer-left-section{
   margin-left: 100px;
+  height: 150px;
   display: flex;
   flex-direction: row;
 }
 
 .footer-right-section{
   margin-right: 100px;
-  height: 150px;
   display: flex;
   flex-direction: column;
 }
